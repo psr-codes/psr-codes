@@ -42,9 +42,12 @@
 </div>
 
 <hr/>
-<h3 align="left">Some Stats</h3> 
-![psr-codes's Stats](https://github-readme-stats.vercel.app/api?username=psr-codes&theme=radical&show_icons=true&hide_border=false&count_private=true)
+<h3 align="left">Some Stats</h3>
+<p>![psr-codes's Stats](https://github-readme-stats.vercel.app/api?username=psr-codes&theme=radical&show_icons=true&hide_border=false&count_private=true)
+</p>
 
-![psr-codes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=psr-codes&theme=radical&hide_border=false)
+<p>![psr-codes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=psr-codes&theme=radical&hide_border=false)
+</p>
 
-![psr-codes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psr-codes&theme=radical&show_icons=true&hide_border=false&layout=compact)
+<p>![psr-codes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psr-codes&theme=radical&show_icons=true&hide_border=false&layout=compact)
+</p>
