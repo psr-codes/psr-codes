@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakash Rawat</h1>
 <h3 align="center">A passionate full-stack and ML developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashsinghrawat-git&label=Profile%20views&color=0e75b6&style=flat" alt="prakashsinghrawat-git" /> </p>
-
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashsinghrawat-git" alt="prakashsinghrawat-git" /></a> </p>
 
 - 📫 How to reach me **prakashsinghrawatuk@gmail.com**
@@ -46,8 +45,6 @@
 
 <hr/>
 <h3 align="left">Some Stats</h3> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashsinghrawat-git&show_icons=true&locale=en&layout=compact" alt="prakashsinghrawat-git" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashsinghrawat-git&show_icons=true&locale=en" alt="prakashsinghrawat-git" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashsinghrawat-git&" alt="prakashsinghrawat-git" /></p>
+![psr-codes's Stats](https://github-readme-stats.vercel.app/api?username=psr-codes&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![psr-codes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=psr-codes&theme=radical&hide_border=false)
+![psr-codes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psr-codes&theme=radical&show_icons=true&hide_border=false&layout=compact)
