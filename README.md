@@ -10,6 +10,12 @@
 <a href="https://www.leetcode.com/kalki299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalki299" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Some Stats</h3>
+
+![psr-codes's Stats](https://github-readme-stats.vercel.app/api?username=psr-codes&theme=radical&show_icons=true&hide_border=false&count_private=true)
+ 
+
+![psr-codes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=psr-codes&theme=radical&hide_border=false)
 
 <h3 align="left">My techstack:</h3> 
 <h4 aligh="left">Web-devlopment</h2>
@@ -42,9 +48,6 @@
 </div>
 
 <hr/>
-<h3 align="left">Some Stats</h3>
 
-![psr-codes's Stats](https://github-readme-stats.vercel.app/api?username=psr-codes&theme=radical&show_icons=true&hide_border=false&count_private=true)
- 
 
 
