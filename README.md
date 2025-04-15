@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack and ML developer from India</h3>
 
 
-- 📫 How to reach me **prakashsinghrawatuk@gmail.com**
+- 📫 How to reach me **prakash.rawat.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
