@@ -16,16 +16,22 @@
 </div>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kalki299?theme=chartreuse&font=Rubik&ext=contest)
 
 <h3 align="left">Some Stats</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=psr-codes&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="psr-codes's Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=psr-codes&theme=radical&hide_border=false" alt="psr-codes's Streak" />
+    </td>
+  </tr>
+</table>
 
-![psr-codes's Stats](https://github-readme-stats.vercel.app/api?username=psr-codes&theme=radical&show_icons=true&hide_border=false&count_private=true)
- 
-
-![psr-codes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=psr-codes&theme=radical&hide_border=false)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/kalki299?theme=chartreuse&font=Rubik&ext=contest)
 <h3 align="left">My techstack:</h3> 
+
 <h4 aligh="left">Web-devlopment</h2>
 <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
