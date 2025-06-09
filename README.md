@@ -19,6 +19,7 @@
   <li>Email: <strong>prakash.rawat.dev@gmail.com</strong></li>
   <li>LinkedIn: <a href="https://linkedin.com/in/prakash-singh-rawat-a48b11254" target="_blank">Prakash Singh Rawat</a></li>
   <li>LeetCode: <a href="https://leetcode.com/kalki299" target="_blank">kalki299</a></li>
+  <li>LeetCode: <a href="https://codeforces.com/profile/kalki299" target="_blank">kalki299</a></li>
 </ul>
 
 ---
@@ -38,16 +39,12 @@
 ---
 
 <h3 align="left">🏆 LeetCode & Codeforces Stats:</h3>
-<table>
-  <tr>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/kalki299?theme=chartreuse&font=Rubik&ext=contest" alt="LeetCode Stats" />
-    </td>
-    <td style="padding-left: 20px;">
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kalki299" alt="Codeforces Stats" />
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://leetcard.jacoblin.cool/kalki299?theme=chartreuse&font=Rubik&ext=contest" alt="LeetCode Stats" style="max-width: 48%; min-width: 300px;" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kalki299" alt="Codeforces Stats" style="max-width: 48%; min-width: 300px;" />
+</div>
+
 
 ---
 
