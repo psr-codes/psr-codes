@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Prakash Singh Rawat</h1>
-<h3 align="center">Electronics & AI Enthusiast | Competitive Programmer | Content Creator</h3>
+<h3 align="center">Building CoinPage 🚀 | Competitive Programmer | Hackathon Winner | Aspiring SDE</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=3D9BE9&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Electronics+Engineer+%7C+AI+%26+ML+Specialist;Competitive+Programmer+%7C+Hackathon+Winner;TechBlogger+at+TechBloom+%7C+Content+Strategist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=3D9BE9&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+CoinPage+%F0%9F%9A%80+%7C+Competitive+Programmer;Hackathon+Winner+%7C+Aspiring+SDE;TechBlogger+at+TechBloom+%7C+Content+Strategist" alt="Typing SVG" />
 </p>
 
 ---
@@ -37,6 +37,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=psr-codes&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+<h3 align="left">🏆 LeetCode & Codeforces Stats:</h3>
+
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://leetcard.jacoblin.cool/kalki299?theme=chartreuse&font=Rubik&ext=contest" alt="LeetCode Stats" style="max-width: 48%; min-width: 300px;" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kalki299" alt="Codeforces Stats" style="max-width: 48%; min-width: 300px;" />
+</div>
 
 ---
 
