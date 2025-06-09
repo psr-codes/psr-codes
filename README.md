@@ -64,10 +64,17 @@
 
 <h3 align="left">🏆 LeetCode & Codeforces Stats:</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://leetcard.jacoblin.cool/kalki299?theme=chartreuse&font=Rubik&ext=contest" alt="LeetCode Stats" style="max-width: 48%; min-width: 300px;" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kalki299" alt="Codeforces Stats" style="max-width: 48%; min-width: 300px;" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/kalki299?theme=chartreuse&font=Rubik&ext=contest" alt="LeetCode Stats" width="95%" />
+    </td>
+    <td align="center">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kalki299" alt="Codeforces Stats" width="95%" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
