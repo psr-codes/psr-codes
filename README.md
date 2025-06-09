@@ -8,28 +8,27 @@
 </p>
 
 ---
+<h3>🔗 Connect & Reach Out</h3>
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center">
-      <h3>🌐 Connect with Me</h3>
+    <td style="width: 50%; vertical-align: top; padding-right: 10px;">
       <ul>
-        <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/prakash-singh-rawat-a48b11254" target="_blank">Prakash Singh Rawat</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/psr-codes" target="_blank">psr-codes</a></li>
-        <li><strong>LeetCode:</strong> <a href="https://leetcode.com/kalki299" target="_blank">kalki299</a></li>
-        <li><strong>Codeforces:</strong> <a href="https://codeforces.com/profile/kalki299" target="_blank">kalki299</a></li>
+        <li><strong>🌐 LinkedIn:</strong> <a href="https://linkedin.com/in/prakash-singh-rawat-a48b11254" target="_blank">Prakash Singh Rawat</a></li>
+        <li><strong>💻 GitHub:</strong> <a href="https://github.com/psr-codes" target="_blank">psr-codes</a></li>
+        <li><strong>🏆 LeetCode:</strong> <a href="https://leetcode.com/kalki299" target="_blank">kalki299</a></li>
+        <li><strong>⚔️ Codeforces:</strong> <a href="https://codeforces.com/profile/kalki299" target="_blank">kalki299</a></li>
       </ul>
     </td>
-    <td align="center">
-      <h3>📫 Reach Out</h3>
+    <td style="width: 50%; vertical-align: top; padding-left: 10px;">
       <ul>
-        <li>📨 Email: <strong>prakash.rawat.cse@gmail.com</strong></li>
-        <li>📰 Blog: <a href="https://techbloom.in" target="_blank">TechBloom</a></li>
-        <li>🚀 Startup: <strong>Founder of <a href="https://coinpage.in" target="_blank">CoinPage</a></strong> – building tools for the Web3 future</li>
+        <li><strong>📧 Email:</strong> prakash.rawat.cse@gmail.com</li>
+        <li>🚀 Building <a href="https://coinpage.in" target="_blank">CoinPage</a></li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -38,7 +37,7 @@
 - 🎓 Final-year B.Tech student at **NSUT, Delhi**
 - 💡 Exploring the intersection of **AI, ML, Web3, and Blockchain**
 - 🏆 Multiple-time **Hackathon Winner** — including **3rd Prize at dAppthon**
-- 💼 Founder of [**CoinPage**](https://coinpage.in) — helping users navigate Web3 with ease
+- 💼 Building [**CoinPage**](https://coinpage.in) — helping users navigate Web3 with ease
 - 👨‍💻 Consistently improving in **DSA** and aiming for an **SDE role**
 
 ---
