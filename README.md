@@ -56,10 +56,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=psr-codes&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=psr-codes&theme=radical" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=psr-codes&theme=react-dark&hide_border=true" />
-</p>
-
+ 
 ---
 
 <h3 align="left">🏆 LeetCode & Codeforces Stats:</h3>
