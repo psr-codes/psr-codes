@@ -29,25 +29,18 @@
   </tr>
 </table>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kalki299?theme=chartreuse&font=Rubik&ext=contest)
-
-
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-kalki299-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/kalki299)
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=psr-codes&theme=radical&show_icons=true&hide_border=false&count_private=true" />
+      <img src="https://leetcard.jacoblin.cool/kalki299?theme=chartreuse&font=Rubik&ext=contest" alt="LeetCode Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=psr-codes&theme=radical&hide_border=false" />
-    </td>
-    <td>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kalki299" />
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kalki299" alt="Codeforces Stats" />
     </td>
   </tr>
 </table>
+
 
 
 
